@@ -16,6 +16,7 @@
 		D18A3B72275988C9009DCFB8 /* ImageGalleryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D18A3B71275988C9009DCFB8 /* ImageGalleryTests.swift */; };
 		D18A3B7C275988C9009DCFB8 /* ImageGalleryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D18A3B7B275988C9009DCFB8 /* ImageGalleryUITests.swift */; };
 		D18A3B7E275988C9009DCFB8 /* ImageGalleryUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D18A3B7D275988C9009DCFB8 /* ImageGalleryUITestsLaunchTests.swift */; };
+		D18A3B8B27598B33009DCFB8 /* ImagePreviewVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D18A3B8A27598B33009DCFB8 /* ImagePreviewVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D18A3B77275988C9009DCFB8 /* ImageGalleryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImageGalleryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D18A3B7B275988C9009DCFB8 /* ImageGalleryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageGalleryUITests.swift; sourceTree = "<group>"; };
 		D18A3B7D275988C9009DCFB8 /* ImageGalleryUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageGalleryUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D18A3B8A27598B33009DCFB8 /* ImagePreviewVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePreviewVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				D18A3B63275988C9009DCFB8 /* Assets.xcassets */,
 				D18A3B65275988C9009DCFB8 /* LaunchScreen.storyboard */,
 				D18A3B68275988C9009DCFB8 /* Info.plist */,
+				D18A3B8A27598B33009DCFB8 /* ImagePreviewVC.swift */,
 			);
 			path = ImageGallery;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D18A3B5F275988C8009DCFB8 /* ViewController.swift in Sources */,
+				D18A3B8B27598B33009DCFB8 /* ImagePreviewVC.swift in Sources */,
 				D18A3B5B275988C8009DCFB8 /* AppDelegate.swift in Sources */,
 				D18A3B5D275988C8009DCFB8 /* SceneDelegate.swift in Sources */,
 			);
